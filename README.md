@@ -17,4 +17,4 @@ Endoints for photo uploader:
 Endoints for photo downloader:
 1. GET : /photo/download/id - Download a photo by id.
 
-Postman Collection: https://www.getpostman.com/collections/4313eaadd030ff56592a
+Postman Collection: https://api.postman.com/collections/17404613-cb23cab1-53c0-47e2-9434-ea982e55c57f?access_key=PMAT-01H6D9HZFZSFG2CKJEJVCMBB7Y
